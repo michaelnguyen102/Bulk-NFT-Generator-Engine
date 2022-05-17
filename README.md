@@ -4,7 +4,7 @@
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone
+git clone https://github.com/michaelnguyen102/Bulk-NFT-Generator-Engine.git
 ```
 
 Go to the root of your folder and run this command if you have yarn installed.
